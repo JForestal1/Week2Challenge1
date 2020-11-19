@@ -1,0 +1,13 @@
+D:\ElevenFiftyProjects\Week2Challenge1\Week2Challenge1\Week2Challenge1\bin\Debug\netcoreapp3.1\Week2Challenge1.exe
+D:\ElevenFiftyProjects\Week2Challenge1\Week2Challenge1\Week2Challenge1\bin\Debug\netcoreapp3.1\Week2Challenge1.deps.json
+D:\ElevenFiftyProjects\Week2Challenge1\Week2Challenge1\Week2Challenge1\bin\Debug\netcoreapp3.1\Week2Challenge1.runtimeconfig.json
+D:\ElevenFiftyProjects\Week2Challenge1\Week2Challenge1\Week2Challenge1\bin\Debug\netcoreapp3.1\Week2Challenge1.runtimeconfig.dev.json
+D:\ElevenFiftyProjects\Week2Challenge1\Week2Challenge1\Week2Challenge1\bin\Debug\netcoreapp3.1\Week2Challenge1.dll
+D:\ElevenFiftyProjects\Week2Challenge1\Week2Challenge1\Week2Challenge1\bin\Debug\netcoreapp3.1\Week2Challenge1.pdb
+D:\ElevenFiftyProjects\Week2Challenge1\Week2Challenge1\Week2Challenge1\obj\Debug\netcoreapp3.1\Week2Challenge1.csprojAssemblyReference.cache
+D:\ElevenFiftyProjects\Week2Challenge1\Week2Challenge1\Week2Challenge1\obj\Debug\netcoreapp3.1\Week2Challenge1.AssemblyInfoInputs.cache
+D:\ElevenFiftyProjects\Week2Challenge1\Week2Challenge1\Week2Challenge1\obj\Debug\netcoreapp3.1\Week2Challenge1.AssemblyInfo.cs
+D:\ElevenFiftyProjects\Week2Challenge1\Week2Challenge1\Week2Challenge1\obj\Debug\netcoreapp3.1\Week2Challenge1.csproj.CoreCompileInputs.cache
+D:\ElevenFiftyProjects\Week2Challenge1\Week2Challenge1\Week2Challenge1\obj\Debug\netcoreapp3.1\Week2Challenge1.dll
+D:\ElevenFiftyProjects\Week2Challenge1\Week2Challenge1\Week2Challenge1\obj\Debug\netcoreapp3.1\Week2Challenge1.pdb
+D:\ElevenFiftyProjects\Week2Challenge1\Week2Challenge1\Week2Challenge1\obj\Debug\netcoreapp3.1\Week2Challenge1.genruntimeconfig.cache
